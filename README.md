@@ -4,6 +4,6 @@ source
 ````
 > leet code 
 > ---
-> [leet code](https://leet-code.com)
+> [leet code](https://leetcode.com/)
 > 
 
